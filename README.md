@@ -5,7 +5,7 @@
   
 ## 使用方法
   
-  ### 1. 将被观察的activity 继承自 LifecycleAppCompatActivity 类，作为被观察者者
+### 1. 将被观察的activity 继承自 LifecycleAppCompatActivity 类，作为被观察者者
   
    class LifeMainActivity : LifecycleAppCompatActivity() {
   
@@ -18,7 +18,7 @@
     
   }
   
-  ### 2. 创建观察者类 TestLife 实现 LifecycleObserver 接口 就可以监听 activity的生命周期变化了
+### 2. 创建观察者类 TestLife 实现 LifecycleObserver 接口 就可以监听 activity的生命周期变化了
   
    class TestLife : LifecycleObserver {
   
