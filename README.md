@@ -28,4 +28,4 @@
     
    }
 ## 效果展示
-![image](https://github.com/Papeone/KLifecycle/raw/master/image/result.jpg)
+![image](https://github.com/Papeone/KLifecycle/raw/master/image/result.png)
