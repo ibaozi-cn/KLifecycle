@@ -26,4 +26,6 @@
              Log.d("TestLife", event.name)
        }
     
-   }
+   }
+## 效果展示
+![image](https://github.com/Papeone/KLifecycle/raw/master/image/result.jpg)
